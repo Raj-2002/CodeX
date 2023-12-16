@@ -6,13 +6,20 @@ a. Who prefers energy drinks more? (male/female/non-binary?)
     
 b. Which age group prefers energy drinks more?
 
-  ![Screenshot_20231217_041959](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/070e12e0-4daa-4925-ae67-9f8240ccd0da)
+  ![Screenshot_20231217_041959](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/070e12e0-4daa-4925-ae67-9f8240ccd0da)    
+  
+c. Which type of marketing reaches the most Youth (15-30)?    
+  ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/ec4a9b09-5881-42eb-9563-bc60fbbf46d3)     
+  
+# 2. Consumer Preferences:    
+a. What are the preferred ingredients of energy drinks among respondents?    
+  ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/6b6eb60b-1c5c-4fcb-b198-068c0308c50b)        
+  
+b. What packaging preferences do respondents have for energy drinks?     
+  ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1ace8623-2c64-46a3-bb9d-cf5fdf6dfa1d)    
+  
 
 
-c. Which type of marketing reaches the most Youth (15-30)?
-# 2. Consumer Preferences:
-a. What are the preferred ingredients of energy drinks among respondents?
-b. What packaging preferences do respondents have for energy drinks?
 # 3. Competition Analysis:
 a. Who are the current market leaders?
 b. What are the primary reasons consumers prefer those brands over ours?
