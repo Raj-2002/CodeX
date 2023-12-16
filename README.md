@@ -2,7 +2,8 @@
 # 1. Demographic Insights (examples)
 a. Who prefers energy drinks more? (male/female/non-binary?)
   
-  ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1dd2003f-162b-439e-af54-47abddb4fd8b)
+  ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1dd2003f-162b-439e-af54-47abddb4fd8b)         
+    
 b. Which age group prefers energy drinks more?
 
   ![Screenshot_20231217_041959](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/070e12e0-4daa-4925-ae67-9f8240ccd0da)
