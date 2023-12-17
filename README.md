@@ -88,7 +88,7 @@ a. What do people think about our brand? (overall rating)
 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/4b422add-903e-4244-afba-2f7fa3b42710)   
 
-With a **3.27** rating, CodeX matches the rating of the industry average
+The overall rating for CodeX stands at 3.27, aligning with the industry average. This suggests a competitive standing within the market, with perceptions in line with the broader industry benchmark.
 
 b. Which cities do we need to focus more on?      
 
@@ -107,8 +107,8 @@ a. Where do respondents prefer to purchase energy drinks?
 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/98f9332f-f332-450e-aa4d-d2f8125b3a13)    
 
-**Supermarkets** and **Online retailers** are the top 2 areas where consumers prefer to purchase energy drinks
 
+Respondents predominantly favour purchasing energy drinks from supermarkets and online retailers, indicating these two channels as their top choices for obtaining such products.
 
 b. What are the typical consumption situations for energy drinks among respondents?    
 
