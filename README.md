@@ -160,7 +160,10 @@ a. Which area of business should we focus more on our product development? (Bran
 
 
 ### How should the product be?    
-![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1c2476a4-6dbf-4b21-bdf2-493f645b8801)    
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1c2476a4-6dbf-4b21-bdf2-493f645b8801)   
+
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/fbc67b5c-4039-445f-8fc9-b5adcf658702)
+
 
 ### Insights:
 
