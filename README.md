@@ -66,6 +66,8 @@ b. What are the typical consumption situations for energy drinks among responden
 
 c. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?     
 
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1c251454-bcca-40a2-aadb-14a8ee036ea7)    
+
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/ae9a099d-0fe6-4564-88cb-98e3b72051d9)     
 
 
