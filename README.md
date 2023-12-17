@@ -144,3 +144,61 @@ A crucial observation is that a substantial portion of individuals aged 31-65 ex
 
 Geographically, the analysis underscores that the top 5 cities with the highest consumer base for energy drinks are Bangalore, Hyderabad, Mumbai, Chennai, and Pune, collectively representing 80% of the target market. Therefore, the primary focus for CodeX should be directed towards the male demographic, aged 15-30, residing in these aforementioned cities. This targeted approach ensures a concentrated effort in areas with the highest consumer density, maximizing the potential for successful market penetration and brand establishment.
 
+### How should the product be?    
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1c2476a4-6dbf-4b21-bdf2-493f645b8801)    
+
+Insights from the Visual - 
+
+- Consumer Preferences:
+
+    - 34% of respondents seek an energy boost for work or study sessions.
+    - 31% prefer consuming the product before physical exercise.
+    - 36% aim for increased energy and focus, while 24% want to combat fatigue.
+
+- Preferred Ingredients:
+
+     - 39% favour caffeine, indicating a high demand for this stimulant.
+     - 25% express interest in vitamins from various natural sources.
+ 
+       
+- Interest in Natural Products:
+
+     - 50% of respondents show interest in natural ingredients.
+ 
+       
+- Pricing Preferences:
+
+     - 43% prefer a price range of 50-99 INR.
+     - 31% are willing to pay between 100-150 INR.
+ 
+       
+- Packaging Preferences:
+
+     - 39% prefer compact and portable cans for convenience.
+     - 25% are interested in innovative bottle designs.
+ 
+  
+- Recommendations for CodeX:       
+
+#### Ingredients:
+
+Caffeine as the primary ingredient for increased energy and focus.
+Natural sources of vitamins to cater to 25% interested in this component.
+
+#### Natural Emphasis:
+
+Consider highlighting the use of natural ingredients, given the 50% interest. 
+
+#### Pricing Strategy:
+
+Aim for a pricing range of 50-150 INR to align with consumer expectations.
+Packaging Design:
+
+Focus on developing a compact can design for portability.
+Consider incorporating innovative elements to attract the 25% interested in unique bottle designs.
+
+#### Conclusion:
+CodeX, with its emphasis on caffeine and natural ingredients, aligned pricing, and convenient packaging has the potential to be a competitive product in the energy drink market based on the survey results.
+
+
+
