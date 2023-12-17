@@ -137,14 +137,50 @@ a. Which area of business should we focus more on our product development? (Bran
 ### Who should be the target customer? 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/fd231832-0e52-4638-ab4d-c5e2cb401ea4)   
 
+#### Insights:
 
-- The survey reveals that 60.38% of respondents identify are males.
-  
-- Only a minimal percentage of consumers aged 15-30, with 5.44% in the 15-18 range and 11.74% in the 19-30 range, consider energy drinks to be dangerous.
-  
-- However, a substantial portion of individuals aged 31-65 express concerns about the safety of energy drinks. Despite this, it is noteworthy that this age bracket constitutes only 26% of the entire market. Consequently, it may be strategically sound to defer addressing this segment immediately and instead focus on capturing this untapped market with a launch of a healthier alternative tailored specifically to individuals in this age group at a later stage.
+- Demographic Distribution:
 
-- Geographically, the analysis underscores that the top 5 cities with the highest consumer base for energy drinks are Bangalore, Hyderabad, Mumbai, Chennai, and Pune, collectively representing 80% of the target market. Therefore, the primary focus for CodeX should be directed towards the male demographic, aged 15-30, residing in these aforementioned cities. This targeted approach ensures a concentrated effort in areas with the highest consumer density, maximizing the potential for successful market penetration and brand establishment.
+  - 60.38% of survey respondents identify as males.
+  - Consumers aged 15-30 show minimal concern about the safety of energy drinks, with only 5.44% in the 15-18 range and 11.74% in the 19-30 range considering them dangerous.
+    
+- Age-specific Concerns:
+
+  - Individuals aged 31-65 express substantial concerns about the safety of energy drinks.
+  - However, this age bracket constitutes only 26% of the entire market.
+
+- Strategic Consideration:
+
+  - Considering the lower market share in the 31-65 age group, it may be strategically sound to defer addressing this segment immediately.
+  - Instead, focus on capturing this untapped market with a launch of a healthier alternative tailored for individuals in this age group at a later stage.
+
+- Geographical Analysis:
+
+  - The top 5 cities with the highest consumer base for energy drinks are Bangalore, Hyderabad, Mumbai, Chennai, and Pune.
+  - These cities collectively represent 80% of the target market.
+
+#### Recommendations:
+
+- Targeted Approach:
+
+  - Direct the primary focus on the male demographic, aged 15-30, residing in the top 5 cities (Bangalore, Hyderabad, Mumbai, Chennai, and Pune).
+  - This targeted approach ensures a concentrated effort in areas with the highest consumer density.
+
+
+- Market Penetration Strategy:
+
+  - Concentrate efforts on maximizing the potential for successful market penetration and brand establishment by catering to the identified demographic in the key cities.
+  - Develop marketing campaigns and product positioning that resonate with the preferences and lifestyle of the male demographic aged 15-30 in these cities.
+
+- Future Planning:
+
+  - Keep the 31-65 age group in mind for future product development, especially focusing on launching a healthier alternative to address their safety concerns.
+  - Monitor market trends and consumer attitudes to determine the optimal timing for introducing a product tailored for the 31-65 age group.
+
+- Brand Differentiation:
+
+  - Differentiate the brand by emphasizing health benefits and safety in marketing messages, especially in the targeted cities.
+  - Build a brand image that aligns with the preferences and values of the identified demographic to establish a strong market presence.
 
 ### How should the product be?    
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1c2476a4-6dbf-4b21-bdf2-493f645b8801)    
