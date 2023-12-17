@@ -203,4 +203,18 @@ Consider incorporating innovative elements to attract the 25% interested in uniq
 CodeX, with its emphasis on caffeine and natural ingredients, aligned pricing, and convenient packaging has the potential to be a competitive product in the energy drink market based on the survey results.
 
 
+### Marketing Strategy     
+
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/6a0fba10-dad9-456f-9a55-a4e709f65e67)     
+
+- Online ads and TV commercials emerge as the most efficacious channels for targeting the youth demographic, specifically those aged between 15 and 30.
+
+
+The provided information delineates the efficiency of individual marketing channels across different age demographics.
+- Most Effective – Online Ads (For Age Group 15 - 30), TV Commercials (For Age 31 And above)
+- Less Effective -  Outdoor billboards and Print Media  (For Age Group 15 – 30)
+- Fairly Effective – TV Commercials (For Age Group 15 – 30). Outdoor Billboards and Print Media (For Ages 31 And above)
+
+### Marketing Campaigns
+
 
