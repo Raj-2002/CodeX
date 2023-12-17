@@ -207,6 +207,16 @@ The provided information delineates the efficiency of individual marketing chann
 - Less Effective -  Outdoor billboards and Print Media  (For Age Group 15 – 30)
 - Fairly Effective – TV Commercials (For Age Group 15 – 30). Outdoor Billboards and Print Media (For Ages 31 And above)
 
-### Marketing Campaigns
+### Scope of Improvement
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/b193367c-727c-44c3-ba6d-d1dd9fd06a59)
+
+- To enhance its market presence, CodeX should concentrate on addressing availability issues in cities where the survey indicates a deficiency. The data suggests that CodeX currently serves only 20% of its consumer base effectively. Therefore, strategic focus should be directed towards improving accessibility and distribution in these underserved cities.
+
+- To refine the focus on priority cities, immediate attention should be directed towards **Bangalore**, **Hyderabad**, and **Mumbai**. These cities exhibit a predominantly positive or neutral perception of CodeX and stand as the top three markets for CodeX.
+
+- A considerable 61% of respondents have expressed health concerns associated with the utilization of CodeX.
+
+- Notably, 30.41% of the surveyed individuals are inclined towards products with reduced sugar content, while 24% manifest a preference for formulations incorporating more natural ingredients. Furthermore, 21.22% of participants have indicated a desire for a more extensive variety of flavours.
+
 
 
