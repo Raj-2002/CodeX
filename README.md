@@ -192,7 +192,9 @@ Consider highlighting the use of natural ingredients, given the 50% interest.
 #### Pricing Strategy:
 
 Aim for a pricing range of 50-150 INR to align with consumer expectations.
-Packaging Design:
+
+
+#### Packaging Design:
 
 Focus on developing a compact can design for portability.
 Consider incorporating innovative elements to attract the 25% interested in unique bottle designs.
