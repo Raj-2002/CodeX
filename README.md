@@ -53,8 +53,8 @@ a. Which marketing channel can be used to reach more customers?
 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/76a2a1dd-b186-4f4a-9e1f-32c046d83862)     
 
-Online Ads and TV commercials
-![Uploading image.png…]()
+**Online Ads** and **TV commercials** are the most effective marketing channels for the consumer base in the age group 15 - 30 which makes up **70%** of the consumer base
+
 
 
 b. How effective are different marketing strategies and channels in reaching our customers?         
