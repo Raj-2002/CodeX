@@ -24,17 +24,31 @@ b. What packaging preferences do respondents have for energy drinks?
   ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1ace8623-2c64-46a3-bb9d-cf5fdf6dfa1d)       
   
 # 3. Competition Analysis:
-a. Who are the current market leaders?
-b. What are the primary reasons consumers prefer those brands over ours?
-# 4. Marketing Channels and Brand Awareness:
-a. Which marketing channel can be used to reach more customers?
-b. How effective are different marketing strategies and channels in reaching our customers?
-# 5. Brand Penetration:
-a. What do people think about our brand? (overall rating)
-b. Which cities do we need to focus more on?
-# 6. Purchase Behavior:
-a. Where do respondents prefer to purchase energy drinks?
-b. What are the typical consumption situations for energy drinks among respondents?
-c. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?
-# 7. Product Development
-a. Which area of business should we focus more on our product development? (Branding/taste/availability)
+a. Who are the current market leaders?           
+
+b. What are the primary reasons consumers prefer those brands over ours?            
+
+# 4. Marketing Channels and Brand Awareness:        
+
+a. Which marketing channel can be used to reach more customers?      
+
+b. How effective are different marketing strategies and channels in reaching our customers?         
+
+# 5. Brand Penetration:              
+
+a. What do people think about our brand? (overall rating)              
+
+b. Which cities do we need to focus more on?                 
+
+# 6. Purchase Behavior:                 
+
+a. Where do respondents prefer to purchase energy drinks?                
+
+b. What are the typical consumption situations for energy drinks among respondents?                 
+
+c. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?                 
+
+# 7. Product Development                    
+
+a. Which area of business should we focus more on our product development? (Branding/taste/availability)                    
+
