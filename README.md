@@ -35,7 +35,9 @@ b. What are the primary reasons consumers prefer those brands over ours?
     
 # 4. Marketing Channels and Brand Awareness:        
 
-a. Which marketing channel can be used to reach more customers?      
+a. Which marketing channel can be used to reach more customers?    
+
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/76a2a1dd-b186-4f4a-9e1f-32c046d83862)     
 
 b. How effective are different marketing strategies and channels in reaching our customers?         
 
