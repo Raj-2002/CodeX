@@ -59,11 +59,12 @@ a. Which marketing channel can be used to reach more customers?
 
 b. How effective are different marketing strategies and channels in reaching our customers?         
 
-Most Effective – Online Ads (For Age Group 15 - 30), TV Commercials (For Age 31 And above)   
-Fairly Effective – TV Commercials (For Age Group 15 – 30). Outdoor Billboards and Print Media (For Age 31 And above)    
-Less Effective -  Outdoor billboards and Print Media  (For Age Group 15 – 30)
+ - Most Effective – Online Ads (For Age Group 15 - 30), TV Commercials (For Age 31 And above)
 
+ - Fairly Effective – TV Commercials (For Age Group 15 – 30). Outdoor Billboards and Print Media (For Age 31 And above)
 
+ - Less Effective -  Outdoor billboards and Print Media  (For Age Group 15 – 30)
+    
 
 # 5. Brand Penetration:              
 
