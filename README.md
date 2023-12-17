@@ -204,7 +204,7 @@ a. Which area of business should we focus more on our product development? (Bran
 
   - Consider a pricing strategy that accommodates both the budget-conscious market (43% preferring 50-99 INR) and those willing to pay a premium (31% in the 100-150 INR range).
 
-  - Packaging Design:
+- Packaging Design:
 
   - Develop a packaging design that prioritizes compact and portable cans to address the 39% preference for convenience.
   - Integrate innovative elements into the packaging to appeal to the 25% interested in unique bottle designs, enhancing product differentiation.
