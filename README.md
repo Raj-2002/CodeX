@@ -134,7 +134,7 @@ a. Which area of business should we focus more on our product development? (Bran
 
 # 8. Personal Research
 
-## Who should be the target customer? 
+### Who should be the target customer? 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/fd231832-0e52-4638-ab4d-c5e2cb401ea4)   
 
 
