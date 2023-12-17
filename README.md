@@ -16,12 +16,16 @@ c. Which type of marketing reaches the most Youth (15-30)?
 
      
   ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/ec4a9b09-5881-42eb-9563-bc60fbbf46d3)     
-  
+
+  **Online Ads** are the most effective type of marketing that reaches youth the most.  
   
 # 2. Consumer Preferences:    
 a. What are the preferred ingredients of energy drinks among respondents?     
 
   ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/6b6eb60b-1c5c-4fcb-b198-068c0308c50b)     
+
+**Caffeine** is the most desired ingredient with about **39%** of the respondents preferring it. **Vitamins** are the second most preferred ingredient
+  
     
 b. What packaging preferences do respondents have for energy drinks?             
 
