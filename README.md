@@ -85,7 +85,7 @@
 CodeX, by strategically aligning with consumer preferences for ingredients, natural emphasis, pricing, and packaging, holds the potential to establish a competitive edge in the energy drink market based on the insightful survey findings.
 
 
-### Marketing Strategy     
+### Marketing Channels    
 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/6a0fba10-dad9-456f-9a55-a4e709f65e67)     
 
