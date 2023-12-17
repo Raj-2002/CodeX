@@ -2,11 +2,15 @@
 # 1. Demographic Insights (examples)
 a. Who prefers energy drinks more? (male/female/non-binary?)
   
-  ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1dd2003f-162b-439e-af54-47abddb4fd8b)         
+  ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1dd2003f-162b-439e-af54-47abddb4fd8b)   
+
+ **60.38 %** of the respondents are males. 
     
 b. Which age group prefers energy drinks more?
 
   ![Screenshot_20231217_041959](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/070e12e0-4daa-4925-ae67-9f8240ccd0da)    
+
+  The age group of **19 - 30** prefers energy drinks the most as they make up **55.20 %** of the total respondents. Age Group 15 - 30 together make up **70 %** of the total consumer base
   
 c. Which type of marketing reaches the most Youth (15-30)?    
 
