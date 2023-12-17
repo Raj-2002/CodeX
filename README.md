@@ -162,50 +162,55 @@ a. Which area of business should we focus more on our product development? (Bran
 ### How should the product be?    
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1c2476a4-6dbf-4b21-bdf2-493f645b8801)    
 
-Insights from the Visual - 
+### Insights:
 
 - Consumer Preferences:
 
-    - 34% of respondents seek an energy boost for work or study sessions.
-    - 31% prefer consuming the product before physical exercise.
-    - 36% aim for increased energy and focus, while 24% want to combat fatigue.
+  - A significant 34% of respondents prioritize an energy boost for work or study sessions.
+  - 31% exhibit a preference for consuming the product before engaging in physical exercise.
+  - 36% seek heightened energy and focus, while 24% specifically target combatting fatigue.
 
 - Preferred Ingredients:
 
-     - 39% favour caffeine, indicating a high demand for this stimulant.
-     - 25% express interest in vitamins from various natural sources.
- 
-       
+  - A substantial 39% indicate a strong preference for caffeine, signifying a notable demand for this stimulant.
+  - 25% express keen interest in vitamins derived from various natural sources.
+
 - Interest in Natural Products:
 
-     - 50% of respondents show interest in natural ingredients.
- 
-       
+  - An impressive 50% of respondents demonstrate a keen interest in products featuring natural ingredients.
+
 - Pricing Preferences:
 
-     - 43% prefer a price range of 50-99 INR.
-     - 31% are willing to pay between 100-150 INR.
- 
-       
+  - 43% prefer a price range of 50-99 INR, indicating a substantial portion of the market with budget considerations.
+  - 31% are willing to pay between 100-150 INR, suggesting room for a premium pricing tier.
+
 - Packaging Preferences:
 
-     - 39% prefer compact and portable cans for convenience.
-     - 25% are interested in innovative bottle designs.
- 
-  
-- Recommendations for CodeX:       
+  - 39% express a preference for compact and portable cans, emphasizing the importance of convenience in packaging.
+  - 25% show interest in innovative bottle designs, highlighting an opportunity for unique and attractive packaging solutions.
 
-- **Ingredients:** Caffeine as the primary ingredient for increased energy and focus.
-Natural sources of vitamins to cater to 25% interested in this component.
+### Recommendations:
 
-- **Natural Emphasis:** Consider highlighting the use of natural ingredients, given the 50% interest. 
+- Ingredients:
 
-- **Pricing Strategy:** Aim for a pricing range of 50-150 INR to align with consumer expectations.
+  - Prioritize caffeine as a primary ingredient, aligning with the significant 39% preference for this stimulant.
+  - Incorporate natural sources of vitamins to cater to the 25% interested in this particular component.
 
-- **Packaging Design:** Focus on developing a compact can design for portability and consider incorporating innovative elements to attract the 25% interested in unique bottle designs.
+- Natural Emphasis:
 
-#### Conclusion:
-CodeX, with its emphasis on caffeine and natural ingredients, aligned pricing, and convenient packaging has the potential to be a competitive product in the energy drink market based on the survey results.
+  - Emphasize the use of natural ingredients in marketing and product communication to resonate with the substantial 50% interest in natural products.
+
+- Pricing Strategy:
+
+  - Consider a pricing strategy that accommodates both the budget-conscious market (43% preferring 50-99 INR) and those willing to pay a premium (31% in the 100-150 INR range).
+
+  - Packaging Design:
+
+  - Develop a packaging design that prioritizes compact and portable cans to address the 39% preference for convenience.
+  - Integrate innovative elements into the packaging to appeal to the 25% interested in unique bottle designs, enhancing product differentiation.
+
+### Conclusion:
+CodeX, by strategically aligning with consumer preferences for ingredients, natural emphasis, pricing, and packaging, holds the potential to establish a competitive edge in the energy drink market based on the insightful survey findings.
 
 
 ### Marketing Strategy     
