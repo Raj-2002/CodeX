@@ -72,11 +72,17 @@ a. What do people think about our brand? (overall rating)
 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/4b422add-903e-4244-afba-2f7fa3b42710)   
 
+With a **3.27** rating, CodeX matches the rating of the industry average
+
 b. Which cities do we need to focus more on?      
 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/e4a8dd28-968d-4a52-af4b-ce42ae699c5a)   
 
-![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/fd437b3e-8b24-45ad-abb3-d4d610687543)    
+CodeX needs to work on its availability as the survey reveals that CodeX is hardly able to serve **20 %** of its consumer base. 
+
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/fd437b3e-8b24-45ad-abb3-d4d610687543)   
+
+To refine the focus on priority cities, immediate attention should be directed towards **Bangalore**, **Hyderabad**, and **Mumbai**. These cities exhibit a predominantly positive or neutral perception of CodeX and stand as the top three markets for CodeX.
 
 # 6. Purchase Behavior:                 
 
