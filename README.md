@@ -233,7 +233,8 @@ The provided information delineates the efficiency of individual marketing chann
 - Fairly Effective – TV Commercials (For Age Group 15 – 30). Outdoor Billboards and Print Media (For Ages 31 And above)
 
 ### Scope of Improvement
-![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/b193367c-727c-44c3-ba6d-d1dd9fd06a59)
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/63203883-a5f3-4ea2-ac5f-2033a64eea47)
+
 
 - To enhance its market presence, CodeX should concentrate on addressing availability issues in cities where the survey indicates a deficiency. The data suggests that CodeX currently serves only 20% of its consumer base effectively. Therefore, strategic focus should be directed towards improving accessibility and distribution in these underserved cities.
 
