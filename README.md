@@ -30,7 +30,8 @@ a. Who are the current market leaders?
 
 b. What are the primary reasons consumers prefer those brands over ours?       
 
-    ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/029c0465-a0cd-4f1e-a0df-0f5e020c6e3f)   
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/7a74be7e-9318-4cbf-8d89-d4e6ca417518)
+       
     
 # 4. Marketing Channels and Brand Awareness:        
 
