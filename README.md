@@ -36,11 +36,15 @@ b. What packaging preferences do respondents have for energy drinks?
 # 3. Competition Analysis:
 a. Who are the current market leaders?           
 
-![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/cf0895f3-b9c7-4072-8ce0-6bd0cad48a26)     
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/cf0895f3-b9c7-4072-8ce0-6bd0cad48a26)    
+
+**CocaCola** which is preferred by **25%** , closely follwed by **Pepsi (21%)** 
 
 b. What are the primary reasons consumers prefer those brands over ours?       
 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/7a74be7e-9318-4cbf-8d89-d4e6ca417518)
+
+**Brand Reputation** and **Taste/Flavor** preferences are the 2 key primary reasons of consumers choosing these brands over CodeX
        
     
 # 4. Marketing Channels and Brand Awareness:        
@@ -48,6 +52,10 @@ b. What are the primary reasons consumers prefer those brands over ours?
 a. Which marketing channel can be used to reach more customers?    
 
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/76a2a1dd-b186-4f4a-9e1f-32c046d83862)     
+
+Online Ads and TV commercials
+![Uploading image.png…]()
+
 
 b. How effective are different marketing strategies and channels in reaching our customers?         
 
