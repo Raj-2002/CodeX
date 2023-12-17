@@ -26,8 +26,12 @@ b. What packaging preferences do respondents have for energy drinks?
 # 3. Competition Analysis:
 a. Who are the current market leaders?           
 
-b. What are the primary reasons consumers prefer those brands over ours?            
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/cf0895f3-b9c7-4072-8ce0-6bd0cad48a26)     
 
+b. What are the primary reasons consumers prefer those brands over ours?       
+
+    ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/029c0465-a0cd-4f1e-a0df-0f5e020c6e3f)   
+    
 # 4. Marketing Channels and Brand Awareness:        
 
 a. Which marketing channel can be used to reach more customers?      
