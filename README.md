@@ -227,10 +227,12 @@ CodeX, by strategically aligning with consumer preferences for ingredients, natu
 - Online ads and TV commercials emerge as the most efficacious channels for targeting the youth demographic, specifically those aged between 15 and 30.
 
 
-The provided information delineates the efficiency of individual marketing channels across different age demographics.
-- Most Effective – Online Ads (For Age Group 15 - 30), TV Commercials (For Age 31 And above)
-- Less Effective -  Outdoor billboards and Print Media  (For Age Group 15 – 30)
-- Fairly Effective – TV Commercials (For Age Group 15 – 30). Outdoor Billboards and Print Media (For Ages 31 And above)
+- The provided information delineates the efficiency of individual marketing channels across different age demographics.
+      - Most Effective – Online Ads (For Age Group 15 - 30), TV Commercials (For Age 31 And above)
+      - Less Effective -  Outdoor billboards and Print Media  (For Age Group 15 – 30)
+      - Fairly Effective – TV Commercials (For Age Group 15 – 30). Outdoor Billboards and Print Media (For Ages 31 And above)
+
+- The primary venues for consumer purchases are identified as supermarkets and online retail platforms, ranking as the two foremost locations for procurement.
 
 ### Scope of Improvement
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/63203883-a5f3-4ea2-ac5f-2033a64eea47)
