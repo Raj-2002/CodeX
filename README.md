@@ -30,6 +30,8 @@ a. What are the preferred ingredients of energy drinks among respondents?
 b. What packaging preferences do respondents have for energy drinks?             
 
   ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1ace8623-2c64-46a3-bb9d-cf5fdf6dfa1d)       
+
+**Compact and Portable Cans** and **Innovative bottle design** are the two most preferred Packaging preferences opted by **39.84%%** and **30.47%** respondents respectively
   
 # 3. Competition Analysis:
 a. Who are the current market leaders?           
