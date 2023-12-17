@@ -142,18 +142,10 @@ a. Which area of business should we focus more on our product development? (Bran
 - Demographic Distribution:
 
   - 60.38% of survey respondents identify as males.
-  - Consumers aged 15-30 show minimal concern about the safety of energy drinks, with only 5.44% in the 15-18 range and 11.74% in the 19-30 range considering them dangerous.
-    
-- Age-specific Concerns:
-
+  - Consumers aged 15-30 show minimal concern about the safety of energy drinks, with only 5.44% in the 15-18 range and 11.74% in the 19-30 range considering them dangerous. It is noteworthy that this age bracket constitutes 70% of the total consumer base.
   - Individuals aged 31-65 express substantial concerns about the safety of energy drinks.
   - However, this age bracket constitutes only 26% of the entire market.
-
-- Strategic Consideration:
-
-  - Considering the lower market share in the 31-65 age group, it may be strategically sound to defer addressing this segment immediately.
-  - Instead, focus on capturing this untapped market with a launch of a healthier alternative tailored for individuals in this age group at a later stage.
-
+ 
 - Geographical Analysis:
 
   - The top 5 cities with the highest consumer base for energy drinks are Bangalore, Hyderabad, Mumbai, Chennai, and Pune.
@@ -161,26 +153,11 @@ a. Which area of business should we focus more on our product development? (Bran
 
 #### Recommendations:
 
-- Targeted Approach:
-
   - Direct the primary focus on the male demographic, aged 15-30, residing in the top 5 cities (Bangalore, Hyderabad, Mumbai, Chennai, and Pune).
   - This targeted approach ensures a concentrated effort in areas with the highest consumer density.
+  - Considering the lower market share in the 31-65 age group, it may be strategically sound to defer addressing this segment immediately.
+  - Instead, focus on capturing this untapped market with a launch of a healthier alternative tailored for individuals in this age group at a later stage.
 
-
-- Market Penetration Strategy:
-
-  - Concentrate efforts on maximizing the potential for successful market penetration and brand establishment by catering to the identified demographic in the key cities.
-  - Develop marketing campaigns and product positioning that resonate with the preferences and lifestyle of the male demographic aged 15-30 in these cities.
-
-- Future Planning:
-
-  - Keep the 31-65 age group in mind for future product development, especially focusing on launching a healthier alternative to address their safety concerns.
-  - Monitor market trends and consumer attitudes to determine the optimal timing for introducing a product tailored for the 31-65 age group.
-
-- Brand Differentiation:
-
-  - Differentiate the brand by emphasizing health benefits and safety in marketing messages, especially in the targeted cities.
-  - Build a brand image that aligns with the preferences and values of the identified demographic to establish a strong market presence.
 
 ### How should the product be?    
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1c2476a4-6dbf-4b21-bdf2-493f645b8801)    
