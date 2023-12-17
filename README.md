@@ -43,17 +43,32 @@ b. How effective are different marketing strategies and channels in reaching our
 
 # 5. Brand Penetration:              
 
-a. What do people think about our brand? (overall rating)              
+a. What do people think about our brand? (overall rating)   
 
-b. Which cities do we need to focus more on?                 
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/4b422add-903e-4244-afba-2f7fa3b42710)   
+
+b. Which cities do we need to focus more on?      
+
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/e4a8dd28-968d-4a52-af4b-ce42ae699c5a)   
+
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/fd437b3e-8b24-45ad-abb3-d4d610687543)    
 
 # 6. Purchase Behavior:                 
 
-a. Where do respondents prefer to purchase energy drinks?                
+a. Where do respondents prefer to purchase energy drinks?        
 
-b. What are the typical consumption situations for energy drinks among respondents?                 
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/98f9332f-f332-450e-aa4d-d2f8125b3a13)    
 
-c. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?                 
+
+b. What are the typical consumption situations for energy drinks among respondents?    
+
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/524661c6-700d-40b0-a525-b0f93ec4150d)    
+
+c. What factors influence respondents' purchase decisions, such as price range and limited edition packaging?     
+
+![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/ae9a099d-0fe6-4564-88cb-98e3b72051d9)     
+
+
 
 # 7. Product Development                    
 
