@@ -228,9 +228,9 @@ CodeX, by strategically aligning with consumer preferences for ingredients, natu
 
 
 - The provided information delineates the efficiency of individual marketing channels across different age demographics.
-      - Most Effective – Online Ads (For Age Group 15 - 30), TV Commercials (For Age 31 And above)
-      - Less Effective -  Outdoor billboards and Print Media  (For Age Group 15 – 30)
-      - Fairly Effective – TV Commercials (For Age Group 15 – 30). Outdoor Billboards and Print Media (For Ages 31 And above)
+     - Most Effective – Online Ads (For Age Group 15 - 30), TV Commercials (For Age 31 And above)
+     - Less Effective -  Outdoor billboards and Print Media  (For Age Group 15 – 30)
+     - Fairly Effective – TV Commercials (For Age Group 15 – 30). Outdoor Billboards and Print Media (For Ages 31 And above)
 
 - The primary venues for consumer purchases are identified as supermarkets and online retail platforms, ranking as the two foremost locations for procurement.
 
