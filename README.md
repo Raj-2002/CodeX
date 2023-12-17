@@ -138,11 +138,13 @@ a. Which area of business should we focus more on our product development? (Bran
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/fd231832-0e52-4638-ab4d-c5e2cb401ea4)   
 
 
-Based on the analysis of the survey data, it is recommended that the target customer for CodeX, the energy drink product, be strategically defined. The survey reveals that 60.38% of respondents identify as male. Furthermore, there is a notable divergence in perceptions of energy drinks among different age groups. Specifically, only a minimal percentage of consumers aged 15-30, with 5.44% in the 15-18 range and 11.74% in the 19-30 range, consider energy drinks to be dangerous.
+- The survey reveals that 60.38% of respondents identify are males.
+  
+- Only a minimal percentage of consumers aged 15-30, with 5.44% in the 15-18 range and 11.74% in the 19-30 range, consider energy drinks to be dangerous.
+  
+- However, a substantial portion of individuals aged 31-65 express concerns about the safety of energy drinks. Despite this, it is noteworthy that this age bracket constitutes only 26% of the entire market. Consequently, it may be strategically sound to defer addressing this segment immediately and instead focus on capturing this untapped market with a launch of a healthier alternative tailored specifically to individuals in this age group at a later stage.
 
-A crucial observation is that a substantial portion of individuals aged 31-65 express concerns about the safety of energy drinks. Despite this, it is noteworthy that this age bracket constitutes only 26% of the entire market. Consequently, it may be strategically sound to defer addressing this segment immediately and instead focus on capturing this untapped market with a launch of a healthier alternative tailored specifically to individuals in this age group at a later stage.
-
-Geographically, the analysis underscores that the top 5 cities with the highest consumer base for energy drinks are Bangalore, Hyderabad, Mumbai, Chennai, and Pune, collectively representing 80% of the target market. Therefore, the primary focus for CodeX should be directed towards the male demographic, aged 15-30, residing in these aforementioned cities. This targeted approach ensures a concentrated effort in areas with the highest consumer density, maximizing the potential for successful market penetration and brand establishment.
+- Geographically, the analysis underscores that the top 5 cities with the highest consumer base for energy drinks are Bangalore, Hyderabad, Mumbai, Chennai, and Pune, collectively representing 80% of the target market. Therefore, the primary focus for CodeX should be directed towards the male demographic, aged 15-30, residing in these aforementioned cities. This targeted approach ensures a concentrated effort in areas with the highest consumer density, maximizing the potential for successful market penetration and brand establishment.
 
 ### How should the product be?    
 ![image](https://github.com/Raj-2002/Marketing-insights-for-a-Beverage-brand/assets/77609705/1c2476a4-6dbf-4b21-bdf2-493f645b8801)    
